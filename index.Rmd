@@ -1,57 +1,33 @@
 ---
-title: "Oddities of a programmer"
+title: "Value from data: A brief history"
 author: Sanjid Rahman
-date: 3rd August, 2023
+date: 20th September, 2023
 output:
   revealjs::revealjs_presentation:
     theme: sky
 ---
 
-# Programming vs other professions
+# Wayback
 
-    highlight: pygments
-    center: true
+- OLTP
+- Need for data driven decision
 
-## Entrepreneur / chess player
+# Advent of SQL
 
-![alt text](img/programmer_antisocial.jpg "Title"){ width=50\% }
+- Inmon: many many joins
+- Kimball: let's get the facts straight
 
-# Programmer Value: Sharing
+# Advent of Spark
 
-## Sharing ideas
+- HDFS
+- Apache Spark
 
-![alt text](img/idea_sharing.jpg "Title"){ width=50\% }
+# ETL vs ELT
 
-# Programmer Value: Open source
+- 2010s
 
-## The altruism
+# Data Engineering
 
-![alt text](img/linus_on_programmers_altruism.jpg "Title")
-
-## What can be achieved!
-
-![alt text](img/linux_contributors.png "Title")
-
-# Programmer Paradise: Stackoverflow
-
-## The necessity
-
-![alt text](img/stackoverflow_intro.jpg "Title")
-
-## But how
-
-![alt text](img/stackoverflow_cause.jpg "Title")
-
-## Oh that's how
-
-![alt text](img/stack_overflow_question.png "Title")
-
-# Programmer temperament
-
-## Rude Linus
-
-![alt text](img/rude_linus.jpg "Title")
-
-## Redemption
-
-![alt text](img/atwood_tweet.png "Title")
+- Data as product
+- Software engineering practices
+- DevOps
